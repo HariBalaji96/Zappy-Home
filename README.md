@@ -67,3 +67,14 @@
 </div>
 
 ###
+
+<h2 align="left">Future Enhancement</h2>
+
+###
+
+<p align="left">
+  In future, Zappy Home web application is likely to continue advancing in terms of user 
+experience, mobile functionality, payment systems, IoT integration, reviews, and service 
+category expansion. These advancements could enhance the overall convenience, efficiency, 
+and effectiveness of the Zappy Home.
+</p>
