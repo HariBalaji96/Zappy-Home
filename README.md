@@ -1,5 +1,5 @@
 <h1 align="left">Zappy Home</h1>
-<h3 align="left">Online Household Service provider</h3>
+<b align="left">Online Household Service provider</b>
 
 <h2 align="left">Project Overview</h2>
 
@@ -51,7 +51,19 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/HariBalaji96/Zappy-Home/assets/110282557/6a3ed2bd-9c35-4c5a-a52b-cca22ba421ca" alt="flow diagram"  />
+  <h3 align="left">Login Page</h3>
+  <img src="https://github.com/HariBalaji96/Zappy-Home/assets/110282557/3401e931-124a-4fda-b998-2992e775eb70" alt="login page"  />
+  
+  ###
+  
+  <h3 align="left">User Registration Page</h3>
+  <img src="https://github.com/HariBalaji96/Zappy-Home/assets/110282557/6aa6100c-8660-49b0-8c17-deb05fd7d748" alt="user registration page"  />
+
+  ###
+  
+  <h3 align="left">Service Listing Page</h3>
+  <img src="https://github.com/HariBalaji96/Zappy-Home/assets/110282557/2c647e4a-c62d-4caf-b77e-352c63111320" alt="Service Listing Page">
+
 </div>
 
 ###
