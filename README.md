@@ -1,11 +1,11 @@
 <h1 align="left">Zappy Home</h1>
-<p align="left">Online Household Service provider</p>
+<h3 align="left">Online Household Service provider</h3>
 
-<h2 align="left">Introduction</h2>
+<h2 align="left">Project Overview</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left"></p>
 
 ###
 
