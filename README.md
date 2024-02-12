@@ -79,7 +79,7 @@
 
 ###
 
-<h2 align="left">Future Enhancement</h2>
+<h2 align="left">Future Enhancements</h2>
 
 ###
 
